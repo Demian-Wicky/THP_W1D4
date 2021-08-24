@@ -1,4 +1,4 @@
-# Copy of the Google front-page
+# The Surfing Project : the new decentralized surf school
 
 ## Table of contents
 * [General info](#general-info)
